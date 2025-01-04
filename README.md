@@ -206,5 +206,4 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 - **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/tarun-mahor-1735a61a7)
 
-
 Thank you for your support, and I look forward to connecting with you!
